@@ -1,0 +1,63 @@
+[submodule "actuator"]
+	path = actuator
+	url = git@github.com:Biye123/actuator.git
+[submodule "AegisTestOutput"]
+	path = AegisTestOutput
+	url = git@github.com:Biye123/AegisTestOutput.git
+[submodule "ainternal"]
+	path = ainternal
+	url = git@github.com:Biye123/ainternal.git
+[submodule "AIO"]
+	path = AIO
+	url = git@github.com:Biye123/AIO.git
+[submodule "dateTime"]
+	path = dateTime
+	url = git@github.com:Biye123/dateTime.git
+[submodule "dinternal"]
+	path = dinternal
+	url = git@github.com:Biye123/dinternal.git
+[submodule "DIO"]
+	path = DIO
+	url = git@github.com:Biye123/DIO.git
+[submodule "ffc"]
+	path = ffc
+	url = git@github.com:Biye123/ffc.git
+[submodule "GenericKeyValTable"]
+	path = GenericKeyValTable
+	url = git@github.com:Biye123/GenericKeyValTable.git
+[submodule "GuiMain"]
+	path = GuiMain
+	url = git@github.com:Biye123/GuiMain.git
+[submodule "LogStatus_LIB"]
+	path = LogStatus_LIB
+	url = git@github.com:Biye123/LogStatus_LIB.git
+[submodule "QCMode"]
+	path = QCMode
+	url = git@github.com:Biye123/QCMode.git
+[submodule "rinternal"]
+	path = rinternal
+	url = git@github.com:Biye123/rinternal.git
+[submodule "seqconfig"]
+	path = seqconfig
+	url = git@github.com:Biye123/seqconfig.git
+[submodule "Sequencer"]
+	path = Sequencer
+	url = git@github.com:Biye123/Sequencer.git
+[submodule "Serial"]
+	path = Serial
+	url = git@github.com:Biye123/Serial.git
+[submodule "StationControl_LIB"]
+	path = StationControl_LIB
+	url = git@github.com:Biye123/StationControl_LIB.git
+[submodule "TextUtils"]
+	path = TextUtils
+	url = git@github.com:Biye123/TextUtils.git
+[submodule "utc"]
+	path = utc
+	url = git@github.com:Biye123/utc.git
+[submodule "worker_LIB"]
+	path = worker_LIB
+	url = git@github.com:Biye123/worker_LIB.git
+[submodule "YieldData_LIB"]
+	path = YieldData_LIB
+	url = git@github.com:Biye123/YieldData_LIB.git
